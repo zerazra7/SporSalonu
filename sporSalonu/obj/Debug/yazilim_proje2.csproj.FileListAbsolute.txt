@@ -1,0 +1,27 @@
+C:\Users\Asus\source\repos\yazilim_proje2\bin\Debug\yazilim_proje2.exe.config
+C:\Users\Asus\source\repos\yazilim_proje2\bin\Debug\yazilim_proje2.exe
+C:\Users\Asus\source\repos\yazilim_proje2\bin\Debug\yazilim_proje2.pdb
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.anaSayfa.resources
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.login.resources
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.Properties.Resources.resources
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.exe
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.pdb
+C:\Users\Asus\source\repos\yazilim_proje2\obj\Debug\yazilim_proje2.uyeEkle.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\bin\Debug\yazilim_proje2.exe.config
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\bin\Debug\yazilim_proje2.exe
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\bin\Debug\yazilim_proje2.pdb
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.anaSayfa.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.guncelle.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.login.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.odeme.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.Properties.Resources.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.uyeEkle.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.uyeGoruntule.resources
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.exe
+C:\Users\Asus\Desktop\egitim\c# dersleri\yazilim_proje2\obj\Debug\yazilim_proje2.pdb
